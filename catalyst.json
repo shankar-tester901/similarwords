@@ -1,0 +1,12 @@
+{
+  "client": {
+    "source": "client"
+  },
+  "applogic": {
+    "targets": [
+      "icon_recommendation"
+    ],
+    "ignore": [],
+    "source": "applogic"
+  }
+}
